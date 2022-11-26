@@ -8,6 +8,17 @@ body {
     background-color: #d9dcd6;
 }
 
+/*moved attribute for better organization*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*moved attribute for better organization*/
+p {
+    font-size: 16px;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,11 +53,6 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
 }
 
 /*moved attribute for better organization*/
@@ -91,10 +97,6 @@ a {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-p {
-    font-size: 16px;
 }
 
 /*moved attribute for better organization*/
