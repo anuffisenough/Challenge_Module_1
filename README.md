@@ -6,9 +6,9 @@
 
 -The steps outlined were meant to improve accessibility of the website by refactoring existing code to make it more logical and compatible with various technologies and browsers.
 
--The updates clarified and reorganized exiting code, and improved functionality where applicable (clickable links)
+-The updates added more logical semantic elements, reorganized existing stylesheet attributes, eliminated redundancies in stylesheet, and improved functionality of page where applicable (clickable links)
 
--This project shows that while semantic elements may not impact the view of the page, they can impact accessibility and efficiency.
+-This project shows that while semantic elements may not all impact the view of the page, they can impact accessibility. It also shows that code can be written more efficiently while maintaining the same functions.
 
 ## Usage
 
