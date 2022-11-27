@@ -6,7 +6,7 @@
 
 -The steps outlined were meant to improve accessibility of the website by refactoring existing code to make it more logical and compatible with various technologies and browsers.
 
--The updates added more logical semantic elements, reorganized existing stylesheet attributes, added alt text for images, eliminated redundancies in stylesheet (DRY), and improved functionality of page where applicable (functioning links)
+-The project updates added more logical semantic elements, reorganized existing stylesheet attributes, added alt text for images, eliminated redundancies in stylesheet (DRY), and improved functionality of page where applicable (all links are now functional)
 
 -This project shows that while semantic elements may not all impact the view of the page, they can impact accessibility. It also shows that code can be written more efficiently while maintaining the same functions.
 
@@ -19,8 +19,6 @@ https://anuffisenough.github.io/Challenge_Module_1/
 ![screenshot of module 1 challenge](assets/images/screenshot.png)
 
 ## Credits
-
-If you followed tutorials, include links to those here as well.
 
 ![Professional README.md Guide] https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
